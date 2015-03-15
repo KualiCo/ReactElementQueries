@@ -1,0 +1,30 @@
+{
+  "name": "react-element-queries",
+  "version": "0.1.1",
+  "description": "Element queries for React components",
+  "main": "build/index.js",
+  "scripts": {
+    "prepublish": "node_modules/.bin/babel src -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KualiCo/ReactElementQueries.git"
+  },
+  "author": "Jerry Neal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KualiCo/ReactElementQueries/issues"
+  },
+  "homepage": "https://github.com/KualiCo/ReactElementQueries",
+  "dependencies": {
+    "lodash": "3.0.0",
+    "react": "0.12.2"
+  },
+  "devDependencies": {
+    "babel": "4.6.6",
+    "babel-core": "4.5.1",
+    "babel-loader": "4.0.0",
+    "jsx-loader": "0.12.2",
+    "webpack": "1.6.0"
+  }
+}

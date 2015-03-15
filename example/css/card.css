@@ -1,0 +1,94 @@
+.card {
+    border: 1px solid #ededed;
+    margin-bottom: 0.5rem;
+    background: #fff;
+    color: #000;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card h1, .card h2, .card h3, .card h4, .card h5, .card h6 {
+    color: inherit; }
+.card ul {
+    margin-bottom: 0; }
+.card.primary {
+    border: 0;
+    margin-bottom: 0.5rem;
+    background: #00558b;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card.primary h1, .card.primary h2, .card.primary h3, .card.primary h4, .card.primary h5, .card.primary h6 {
+    color: inherit; }
+.card.primary ul {
+    margin-bottom: 0; }
+.card.primary .card-divider {
+    background: #0065a5;
+    padding: 1rem; }
+.card.success {
+    border: 0;
+    margin-bottom: 0.5rem;
+    background: #43AC6A;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card.success h1, .card.success h2, .card.success h3, .card.success h4, .card.success h5, .card.success h6 {
+    color: inherit; }
+.card.success ul {
+    margin-bottom: 0; }
+.card.success .card-divider {
+    background: #4ab873;
+    padding: 1rem; }
+.card.warning {
+    border: 0;
+    margin-bottom: 0.5rem;
+    background: #F08A24;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card.warning h1, .card.warning h2, .card.warning h3, .card.warning h4, .card.warning h5, .card.warning h6 {
+    color: inherit; }
+.card.warning ul {
+    margin-bottom: 0; }
+.card.warning .card-divider {
+    background: #f19233;
+    padding: 1rem; }
+.card.alert {
+    border: 0;
+    margin-bottom: 0.5rem;
+    background: #F04124;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card.alert h1, .card.alert h2, .card.alert h3, .card.alert h4, .card.alert h5, .card.alert h6 {
+    color: inherit; }
+.card.alert ul {
+    margin-bottom: 0; }
+.card.alert .card-divider {
+    background: #f14e33;
+    padding: 1rem; }
+.card.dark {
+    border: 0;
+    margin-bottom: 0.5rem;
+    background: #232323;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden; }
+.card.dark h1, .card.dark h2, .card.dark h3, .card.dark h4, .card.dark h5, .card.dark h6 {
+    color: inherit; }
+.card.dark ul {
+    margin-bottom: 0; }
+.card.dark .card-divider {
+    background: #323232;
+    padding: 1rem; }
+
+.card-divider {
+    background: #ededed;
+    padding: 1rem; }
+
+.card-section {
+    padding: 1rem; }
